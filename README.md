@@ -18,7 +18,7 @@ Requirements:
   
 - Flexibility that allows objects of different natures to be processed with an emphasis on the possibility of incorporating new objects in the future;
 
-- Your system must be able to process values according to the following rules:
+- Your system must be able to process values according to the following rules:<br>
   i. Technical course: the student passes if they obtain an average of 7.0 (seven) or more in all subjects. Otherwise, the student fails;<br>
   ii. Bachelor's degree course: the student passes each subject (individually) if they achieve an average of 6.0 (six) or more. Otherwise, the student fails;<br>
   iii. Master's course: the student is disqualified from the course if they obtain a D in any of the subjects. A, B or C grades are approved and the student is kept in the program;<br>
