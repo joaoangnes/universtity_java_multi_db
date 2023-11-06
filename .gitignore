@@ -1,0 +1,36 @@
+.env
+
+# Maven-specific
+target/
+dependency-reduced-pom.xml
+
+# Eclipse-specific
+.classpath
+.project
+.settings/
+
+# NetBeans-specific
+nbproject/
+build/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Local configuration file (for IDE settings)
+.idea
+
+# Maven Wrapper - use a specific version of Maven
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE-specific files
+.vscode/
+.DS_Store
